@@ -1,4 +1,4 @@
-package com.userACtivities;
+package com.UserACtivities;
 
 
 import java.io.*;

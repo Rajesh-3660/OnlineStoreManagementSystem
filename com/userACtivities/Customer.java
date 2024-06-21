@@ -1,4 +1,4 @@
-package com.userACtivities;
+package com.UserACtivities;
 
 public class Customer extends User
 {
